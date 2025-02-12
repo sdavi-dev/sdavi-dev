@@ -44,8 +44,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas ha
 |SistemaSolarAR|Este aplicativo foi desenvolvido no projeto final da disciplina de Realidade Virtual e Aumentada do meu curso. O desenvolvimento foi realizado utilizando a plataforma Unity com a biblioteca Vuforia, além da utilização da linguagem de programação C# para os Scripts|
 
 # Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/davi-soares-sousa-santos-aa3761289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davi-soares-sousa-santos-aa3761289/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdavi-dev)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sdavi3489)
