@@ -41,8 +41,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas ha
 |Projeto|Descrição|
 |-------|---------|
 |Projeto Sudoku PPI|Foi desenvolvido um Sudoku utilizando HTML, CSS, JavaScript e Jquery. O projeto fez parte de um trabalho realizado no curso|
-|Game Jokepo Python|O Jogo foi desenvolvido utilizando a linguagem de programação Python utilizando a biblioteca Pygame|
-|Registro de Pensamentos Disfuncionais|Este sistema de registro de pensamento disfuncionais foi desenvolvido com o React, HTML e CSS no front-end. No back-end foi utilizado o Node.js e o PostgreeSQL. O objetivo deste sistema é registrar os pensamentos negativos e corrigi-los e é bastante utilizado em sessões de terapia.|
 |SistemaSolarAR|Este aplicativo foi desenvolvido no projeto final da disciplina de Realidade Virtual e Aumentada do meu curso. O desenvolvimento foi realizado utilizando a plataforma Unity com a biblioteca Vuforia, além da utilização da linguagem de programação C# para os Scripts|
 
 # Conecte-se Comigo
