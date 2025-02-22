@@ -4,13 +4,47 @@
 
 # Sobre mim
 
-Olá, meu nome é Davi! Sou graduado em Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília e sou apaixonado pelo universo da programação e análise de dados.
+Sou analista de BI com um ano de experiência em Power BI, SQL, Excel, Python e desenvolvimento de dashboards. 
 
-Tenho afinidade com JavaScript, React.js, Node.js, HTML, CSS e PostgreSQL e já tive contato com Python, Java, Dart com Flutter e C# ao longo da minha trajetória acadêmica. Além disso, possuo experiência em análise de dados, utilizando Python, Power BI, SQL e Excel avançado para transformar informações em insights estratégicos.
+Iniciei minha jornada na Ouvidoria do Ministério da Integração e do Desenvolvimento Regional (MIDR), onde desenvolvi dashboards e adquiri autonomia para aprender e aplicar novas tecnologias, como Power BI, Excel e integração com APIs. Além disso, fui responsável por publicá-los no site oficial do Ministério.
 
-Atualmente, trabalho como analista de BI, desenvolvendo dashboards e integrando dados por meio da API do Ministério da Integração e do Desenvolvimento Regional.
+Após o término do estágio, fui contratado como assistente administrativo para continuar desenvolvendo dashboards para a Ouvidoria, devido à alta demanda e à necessidade de compreender o fluxo de atendimentos para apoiar a tomada de decisões. Desenvolvi dashboards na Ouvidoria do MIDR, proporcionando uma análise mais eficiente dos atendimentos, o que contribuiu para uma gestão mais ágil e tomada de decisões estratégicas.
 
-Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com soluções inovadoras.
+Me considero uma pessoa ágil e resiliente, capaz de superar desafios. Sempre que preciso aprender uma nova linguagem, software ou tecnologia, ou me adaptar a mudanças, estou disposto a encarar e superar qualquer obstáculo.
+
+🔵 Experiências:
+
+- Criação de dashboards interativos no Power BI para análise de atendimento e tomada de decisões estratégicas.
+- Automação de processos com Power Automate.
+- Integração e extração de dados via API da Ouvidoria para automatizar relatórios.
+- Modelagem e tratamento de dados com Python (Pandas) e Power Query.
+
+🔵 Tecnologias:
+
+Power BI | Excel | Power Automate
+SQL | MySQL | PostgreSQL
+Python | Pandas | ETL
+
+🔵 Atividades Recentes:
+
+📊 Desenvolvendo um chatbot para uma ouvidoria pública
+- Criando um assistente virtual para otimizar o atendimento ao cidadão utilizando o Copilot Studio para desenvolvimento.
+
+📈 Aprimorando dashboards e análises de dados
+- Melhorando visualizações no Power BI para insights estratégicos.
+- Utilizando Python (Pandas) para processar e analisar dados extraídos via API.
+
+🎯 Aprofundando conhecimentos em Power BI e automação
+- Estudando Power Automate para otimizar fluxos de trabalho.
+- Aprofundando técnicas de ETL e integração de dados via API para otimizar o fluxo de análise de dados.
+- Aprimorando conhecimentos em Python e Pandas.
+- Estudando Copilot Studio para desenvolvimento de chatbots.
+
+🔗 Dashboards publicados: 
+
+https://www.gov.br/mdr/pt-br/acesso-a-informacao/participacao-social-1/paineis-e-relatorios
+
+https://paineis.mdr.gov.br/5.%20Ouvidoria%20e%20SIC/eyJrIjoiZmNiYjlmMDctZDcyYS00N2RlLWE1YjctZGY0NWRhZTIxZjBlIiwidCI6Ijk2MTFlY2UxLTM0MTQtNGMzNS1hM2YwLTdkMTAwNDI5MGNkNiJ9
 
 # Habilidades
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
