@@ -27,9 +27,6 @@ Python | Pandas | ETL
 
 🔵 Atividades Recentes:
 
-📊 Desenvolvendo um chatbot para uma ouvidoria pública
-- Criando um assistente virtual para otimizar o atendimento ao cidadão utilizando o Copilot Studio para desenvolvimento.
-
 📈 Aprimorando dashboards e análises de dados
 - Melhorando visualizações no Power BI para insights estratégicos.
 - Utilizando Python (Pandas) para processar e analisar dados extraídos via API.
@@ -38,13 +35,7 @@ Python | Pandas | ETL
 - Estudando Power Automate para otimizar fluxos de trabalho.
 - Aprofundando técnicas de ETL e integração de dados via API para otimizar o fluxo de análise de dados.
 - Aprimorando conhecimentos em Python e Pandas.
-- Estudando Copilot Studio para desenvolvimento de chatbots.
 
-🔗 Dashboards publicados: 
-
-https://www.gov.br/mdr/pt-br/acesso-a-informacao/participacao-social-1/paineis-e-relatorios
-
-https://paineis.mdr.gov.br/5.%20Ouvidoria%20e%20SIC/eyJrIjoiZmNiYjlmMDctZDcyYS00N2RlLWE1YjctZGY0NWRhZTIxZjBlIiwidCI6Ijk2MTFlY2UxLTM0MTQtNGMzNS1hM2YwLTdkMTAwNDI5MGNkNiJ9
 
 # Habilidades
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -64,20 +55,29 @@ https://paineis.mdr.gov.br/5.%20Ouvidoria%20e%20SIC/eyJrIjoiZmNiYjlmMDctZDcyYS00
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# Minhas Contribuições
+# Meus Projetos
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - 📊 [Dashboard DIO Power BI](https://github.com/sdavi-dev/power-bi-dashboards-DIO.git)
-- 🔵 [Imersão Alura Gemini](https://github.com/sdavi-dev/imersao-alura-gemini)
+
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 - 🌚 [SistemaSolar3D-AR](https://github.com/sdavi-dev/SistemaSolar3D-AR)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+- 🔵 [Imersão Alura Gemini](https://github.com/sdavi-dev/imersao-alura-gemini)
 - 🧑 [tcc_jogouml](https://github.com/sdavi-dev/tcc_jogouml)
 - 🧮 [Projeto_Sudoku_PPI1](https://github.com/sdavi-dev/Projeto_Sudoku_PPI1)
+  
 
-# Projetos
-|Projeto|Descrição|
-|-------|---------|
-|Projeto Sudoku PPI|Foi desenvolvido um Sudoku utilizando HTML, CSS, JavaScript e Jquery. O projeto fez parte de um trabalho realizado no curso|
-|SistemaSolarAR|Este aplicativo foi desenvolvido no projeto final da disciplina de Realidade Virtual e Aumentada do meu curso. O desenvolvimento foi realizado utilizando a plataforma Unity com a biblioteca Vuforia, além da utilização da linguagem de programação C# para os Scripts|
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+- ⏰[Relógio Digital](https://github.com/sdavi-dev/python-relogio-digital-gui)
+- 🎲[Projeto Iniciante de Análise de dados](https://github.com/sdavi-dev/python-projeto-pandas-iniciante)
+
 
 # Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/davi-soares-sousa-santos-aa3761289/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-soares-sousa-santos-aa3761289/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdavi-dev)
