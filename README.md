@@ -8,7 +8,7 @@ Sou analista de BI com um ano de experiência em Power BI, SQL, Excel, Python e 
 
 Iniciei minha jornada na Ouvidoria do Ministério da Integração e do Desenvolvimento Regional (MIDR), onde desenvolvi dashboards e adquiri autonomia para aprender e aplicar novas tecnologias, como Power BI, Excel e integração com APIs. Além disso, fui responsável por publicá-los no site oficial do Ministério.
 
-Após o término do estágio, fui contratado como assistente administrativo para continuar desenvolvendo dashboards para a Ouvidoria, devido à alta demanda e à necessidade de compreender o fluxo de atendimentos para apoiar a tomada de decisões. Desenvolvi dashboards na Ouvidoria do MIDR, proporcionando uma análise mais eficiente dos atendimentos, o que contribuiu para uma gestão mais ágil e tomada de decisões estratégicas.
+Após o término do estágio, fui contratado como assistente administrativo para continuar desenvolvendo dashboards para a Ouvidoria, diante da alta demanda e da necessidade de compreender o fluxo de atendimentos para apoiar a tomada de decisões. Nesse período, produzi painéis que permitiram uma análise mais eficiente dos atendimentos, contribuindo para uma gestão mais ágil e decisões mais estratégicas.
 
 Me considero uma pessoa ágil e resiliente, capaz de superar desafios. Sempre que preciso aprender uma nova linguagem, software ou tecnologia, ou me adaptar a mudanças, estou disposto a encarar e superar qualquer obstáculo.
 
@@ -27,7 +27,7 @@ Python | Pandas | ETL
 
 🔵 Atividades Recentes:
 
-📈 Aprimorando dashboards e análises de dados
+- Aprimorando dashboards e análises de dados
 - Melhorando visualizações no Power BI para insights estratégicos.
 - Utilizando Python (Pandas) para processar e analisar dados extraídos via API.
 
@@ -75,6 +75,7 @@ Python | Pandas | ETL
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 - ⏰[Relógio Digital](https://github.com/sdavi-dev/python-relogio-digital-gui)
 - 🎲[Projeto Iniciante de Análise de dados](https://github.com/sdavi-dev/python-projeto-pandas-iniciante)
+- 🎲[Projeto Imersao de Dados Alura](https://github.com/sdavi-dev/projeto-imersao-dados-alura)
 
 
 # Conecte-se Comigo
